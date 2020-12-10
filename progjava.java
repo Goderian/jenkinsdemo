@@ -1,4 +1,4 @@
-class Main
+class progjava
 {
    static void main(String[ ] args)
    { /* inverse d'une suite de caractère dans un tableau par
