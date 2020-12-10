@@ -1,4 +1,4 @@
-class Application1
+class Main
 {
    static void main(String[ ] args)
    { /* inverse d'une suite de caractère dans un tableau par
