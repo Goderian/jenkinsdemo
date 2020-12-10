@@ -1,6 +1,6 @@
 class progjava
 {
-   static void main(String[ ] args)
+   public static void main(String[ ] args)
    { /* inverse d'une suite de caractère dans un tableau par
        permutation des deux extrêmes */
     char [ ] Tablecar ={'a','b','c','d','e','f'} ;
